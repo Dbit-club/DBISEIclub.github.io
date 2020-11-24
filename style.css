@@ -1,0 +1,137 @@
+.navbar-colour {
+    background-color: #c19434;
+  }
+  
+  .box {
+    margin-bottom: 30px;
+  }
+  
+  .carousel-item img {
+    position: center;
+    height: 400px;
+    width: 100%;
+  }
+  
+  .card img {
+    height: 270px;
+  }
+
+  
+  
+  .pd {
+    padding: 10px;
+  }
+  
+  .row-content {
+    border-style: outset;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  .par::first-letter
+  {
+      font-size: 200%;
+      color: rgb(127, 204, 157);"
+  }
+
+  
+  @media only screen and (min-width:992px) {
+    .parallax {
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-blend-mode: screen;
+          background-image: url("photos/dp\ p.jpeg");
+          background-color: rgb(204, 192, 171);
+
+        }
+      }
+
+
+.bg
+{
+  background-color: #f1f1ef;
+}
+
+section .card {
+    border: none;
+    margin: 0 auto;
+    width: 700px;
+  }
+  
+
+  
+  .footer {
+    background-color: #c19434;
+    margin: 20px 20px 0px 20px;
+    padding: 20px 0px 20px 0px;
+  }
+  
+  .fa {
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 20px;
+    width: 28px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fab {
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 20px;
+    width: 28px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: crimson;
+    color: white;
+  }
+  
+  .fa-whatsapp {
+    background: green;
+    color: white;
+  }
+  
+  .fa-discord {
+    background: gray;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: blue;
+    color: white;
+  }
+  
+  .fa-youtube
+  {
+    padding: 5px 0px 5px 0px;
+    margin: 0px;
+    background: red;
+    color: white;
+  }
+
+  .fa-twitter
+  {
+    background: rgb(149, 204, 223);
+    color: white;
+  }
+
+  .fa-envelope
+  {
+    background: rgb(160, 160, 235);
+    color: white;
+  }
+  
+  .body
+  {
+    background-color: #f1f1ef;
+  }
